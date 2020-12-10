@@ -1,3 +1,7 @@
+# A temperature control remote build using ReactJS.
+
+[Click here to check out the live site.](https://temperature-control.netlify.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
